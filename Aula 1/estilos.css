@@ -1,0 +1,49 @@
+
+
+/* Estilos para o menu navegável */
+header {
+    background-color: #333; /* Cor de fundo do cabeçalho */
+    color: #fff; /* Cor do texto no cabeçalho */
+    padding: 10px ; /* Espaçamento interno no cabeçalho */
+}
+
+nav ul {
+    list-style-type:none; /* Remover marcadores de lista */
+    padding: 0% '\f106';;
+}
+
+nav ul li {
+    display: inline; /* Dispor os itens horizontalmente */
+    margin-right: 60px; /* Espaço entre os itens */
+}
+
+nav ul li a {
+    text-decoration: none; /* Remover sublinhado nos links */
+    color: #fff; /* Cor dos links */
+}
+
+/* Estilizar links quando passar o mouse por cima */
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+/* Estilos para os formulários de cadastro */
+
+
+/* Estilos para as páginas de relatórios */
+
+
+/* Estilos para as páginas de conteúdo */
+
+
+/* Estilos para a página com grid */
+
+
+/* Estilos responsivos */
